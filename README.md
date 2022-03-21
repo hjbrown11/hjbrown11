@@ -2,11 +2,11 @@
 <h3 align="center">A passionate developer always looking to gain more knowledge and experience in all things related to science and tech!</h3>
 
 
-- 🔭 I’m currently working on **improving my current skills and learning plenty of new ones**
+- 🔭 I’m always working on **improving my current skills and learning plenty of new ones**
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **React and deepening my knowledge of JavaScript**
 
-- 👯 I’m looking to collaborate on any interesting projects - but **especially those with a great social impact!**
+- 👯 I’m looking to collaborate on any interesting projects - but **especially those related to scientific research or those with a great social impact!**
 
 - 📫 How to reach me **hannah.josephine.brown@gmail.com**
 
