@@ -4,7 +4,7 @@
 
 - 🔭 Always working on **improving my current skills and learning plenty of new ones**
 
-- 🌱 Currently learning **React and deepening my knowledge of JavaScript**
+- 🌱 Currently learning **React and deepening my knowledge of TDD and JavaScript**
 
 - 👯 Looking to collaborate on any interesting projects - but **especially those related to scientific research or those with a great social impact!**
 
