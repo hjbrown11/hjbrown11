@@ -4,9 +4,9 @@
 
 - 🔭 Always working on **improving my current skills and learning plenty of new ones**
 
-- 🌱 Currently learning **React and deepening my knowledge of TDD and JavaScript**
+- 🌱 Currently learning **node.js, Jest and TDD**
 
-- 👯 Looking to collaborate on any interesting projects - but **especially those related to scientific research or those with a great social impact!**
+- 👯 Looking to collaborate on any interesting projects - but **especially those related to health, scientific research or those with a great social impact!**
 
 - 📫 How to reach me **hannah.josephine.brown@gmail.com**
 
