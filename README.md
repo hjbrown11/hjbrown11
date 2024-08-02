@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hannah</h1>
+<h1 align="center">Hi 👋 I'm Hannah</h1>
 <h3 align="center">Working as a software engineeer at Twilio, and always looking to gain more knowledge and experience in all things related to science and tech!</h3>
 
 - 🔭 Always working on **improving my current skills and learning plenty of new ones**
 
-- 🌱 I’m currently learning **React, TypeScript, Redux and Cypress**
+- 🌱 I’m currently working in **React and TypeScript**
 
 - 👯 Looking to collaborate on any interesting projects - but **especially those related to health, scientific research or those with a great social impact!**
 
