@@ -1,4 +1,4 @@
-<p align="left">Hi, I'm Hannah, I'm currently working as a Software Engineer at Twilio. 
+<p align="left">Hi, I'm Hannah, I've been working as a Software Engineer at Twilio since June 2022. 
   
 Please feel free to reach out on LinkedIn:</p>
 
